@@ -6,7 +6,7 @@ This is a progressive web application(PWA), it is a text editor that has a servi
 ## Installation
 
 - To run application you can do [ npm i/ npm run start ] in the develop folder
-- You can also click on this already running heroku page 
+- You can also click on this already running heroku page https://week19challenge.herokuapp.com/
 ### New technologies used
 
 - idb
